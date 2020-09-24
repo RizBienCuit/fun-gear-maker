@@ -140,7 +140,7 @@ elif lettre=="v" or lettre=="V" or lettre=="h" or lettre=="H":
 print(textIn[indexString])
 print(lineList)
 print(lettre)
-input("bnan")
+
 while continuto:
     fin=[0,0]
     #print("A")
@@ -303,7 +303,6 @@ while sens==0 and compteur<nSeg+1:
 workSegment=sensSegment
 if sens==-1:
     compta=comptade
-input("banane:")
 compteur=0
 while compteur<NPas:
     compta+=sens
